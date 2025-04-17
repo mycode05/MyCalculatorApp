@@ -23,8 +23,6 @@ MyCalculatorApp is a basic Android calculator built using Java/Kotlin in Android
 
 ## 📷 Screenshots
 
-> *(Add screenshots if available – you can upload images to your repo and link them here)*  
-Example:
 
 ![Calculator UI](screenshots/calculator.png)
 
